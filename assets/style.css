@@ -1,0 +1,7 @@
+.main-doc {
+  background-image: url(http://lorempixel.com/400/200/nature/);
+  background-size: cover;
+  min-height: 400px;
+  color: white;
+  text-shadow: 1px 1px black;
+}
